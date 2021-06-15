@@ -1,0 +1,16 @@
+C:\Alkami\Misc\UCanHazDadJoke\bin\Release\UCanHazDadJoke.exe.config
+C:\Alkami\Misc\UCanHazDadJoke\bin\Release\UCanHazDadJoke.exe
+C:\Alkami\Misc\UCanHazDadJoke\bin\Release\UCanHazDadJoke.pdb
+C:\Alkami\Misc\UCanHazDadJoke\bin\Release\System.Memory.dll
+C:\Alkami\Misc\UCanHazDadJoke\bin\Release\System.Text.Json.dll
+C:\Alkami\Misc\UCanHazDadJoke\bin\Release\System.Numerics.Vectors.dll
+C:\Alkami\Misc\UCanHazDadJoke\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Alkami\Misc\UCanHazDadJoke\bin\Release\System.Buffers.dll
+C:\Alkami\Misc\UCanHazDadJoke\bin\Release\System.Text.Encodings.Web.dll
+C:\Alkami\Misc\UCanHazDadJoke\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Alkami\Misc\UCanHazDadJoke\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Alkami\Misc\UCanHazDadJoke\obj\Release\UCanHazDadJoke.exe.config
+C:\Alkami\Misc\UCanHazDadJoke\obj\Release\UCanHazDadJoke.csproj.CoreCompileInputs.cache
+C:\Alkami\Misc\UCanHazDadJoke\obj\Release\UCanHazDadJoke.csproj.CopyComplete
+C:\Alkami\Misc\UCanHazDadJoke\obj\Release\UCanHazDadJoke.exe
+C:\Alkami\Misc\UCanHazDadJoke\obj\Release\UCanHazDadJoke.pdb
